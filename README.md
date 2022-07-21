@@ -1,1 +1,2 @@
-# speech-to-text-ESP32-in-Arduino-IDE
+# ESP32-in-Arduino-IDE
+### 1-Install Arduino IDE
