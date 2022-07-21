@@ -37,8 +37,8 @@
   
   
   # reference:
- ### [DeepBlue article](https://deepbluembedded.com/installing-esp32-arduino-ide-steps-guid]
+ [DeepBlue article](https://deepbluembedded.com/installing-esp32-arduino-ide-steps-guid)
   
-  ### [Youtube] (https://www.youtube.com/watch?v=tkDJQkB9eEY)
+ [Youtube](https://www.youtube.com/watch?v=tkDJQkB9eEY)
 
 
