@@ -24,3 +24,12 @@
 
 - ###  check the COM port and paste this example code in the editor.
 <img width="880" alt="Screen Shot 2022-07-21 at 8 50 09 pm" src="https://user-images.githubusercontent.com/98902283/180287570-b2c58afd-8743-4eb4-9383-21e901cecef4.png">
+
+
+
+
+
+#### Hit upload and press the BOOT button until Arduino IDE starts flashing the code and display log messages at the bottom window, then you can release the BOOT button.
+
+  #### After flashing completion, the board will reset by hardware               command by order of the loader tool in Arduino IDE or you’ll have to restart the board yourself by pressing the EN button once
+
