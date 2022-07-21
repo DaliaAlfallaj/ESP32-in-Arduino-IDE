@@ -19,4 +19,5 @@
 # 3- Now open Arduino IDE 
 
 - ### Open the tools menu Tools > Board > Your Board
- ![Uploading Screen Shot 2022-07-21 at 8.48.42 pm.png…]()
+
+<img width="939" alt="Screen Shot 2022-07-21 at 8 48 42 pm" src="https://user-images.githubusercontent.com/98902283/180287339-2dd78d51-ee95-4051-afd8-d034c43d09a6.png">
