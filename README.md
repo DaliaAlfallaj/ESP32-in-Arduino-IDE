@@ -32,4 +32,13 @@
 #### Hit upload and press the BOOT button until Arduino IDE starts flashing the code and display log messages at the bottom window, then you can release the BOOT button.
 
   #### After flashing completion, the board will reset by hardware               command by order of the loader tool in Arduino IDE or you’ll have to restart the board yourself by pressing the EN button once
+  
+  
+  
+  
+  # reference
+  [DeepBlue article](https://deepbluembedded.com/installing-esp32-arduino-ide-steps-guid]
+  
+  [Youtube] (https://www.youtube.com/watch?v=tkDJQkB9eEY)
+
 
