@@ -1,5 +1,5 @@
 # ESP32-in-Arduino-IDE
-## 1-Install Arduino IDE
+# 1-Install Arduino IDE
 ###### Download [Arduino IDE](https://www.arduino.cc/en/software)
 
 # 2-Installing ESP32 Board in Arduino IDE
@@ -14,3 +14,9 @@
 - ###  Open the board manage menu. Tools > Board > Boards Manager. Search for “esp32” and make sure it’s by espressif and click install.
 
 <img width="809" alt="Screen Shot 2022-07-21 at 8 44 20 pm" src="https://user-images.githubusercontent.com/98902283/180286929-ea7cc661-b2e9-48a2-9f0f-d6a3c9507028.png">
+
+
+# 3- Now open Arduino IDE 
+
+- ### Open the tools menu Tools > Board > Your Board
+ ![Uploading Screen Shot 2022-07-21 at 8.48.42 pm.png…]()
